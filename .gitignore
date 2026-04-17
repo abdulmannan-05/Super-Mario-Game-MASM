@@ -1,0 +1,9 @@
+.vs/
+Debug/
+ipch/
+*.sln
+*.vcxproj*
+*.obj
+*.pdb
+*.ilk
+*.exe
